@@ -1,7 +1,7 @@
 export const librosBase = [
   {
     id: 1,
-    titulo: 'Crepusculo',
+    titulo: 'Crep\u00fasculo',
     autor: 'Stephenie Meyer',
     anio: 2005,
     precio: 15990,
@@ -19,7 +19,7 @@ export const librosBase = [
   },
   {
     id: 3,
-    titulo: 'El Senor de los Anillos',
+    titulo: 'El se\u00f1or de los anillos',
     autor: 'J.R.R. Tolkien',
     anio: 1954,
     precio: 22990,
@@ -37,7 +37,7 @@ export const librosBase = [
   },
   {
     id: 5,
-    titulo: 'Cien anos de soledad',
+    titulo: 'Cien a\u00f1os de soledad',
     autor: 'Gabriel Garcia Marquez',
     anio: 1967,
     precio: 18990,

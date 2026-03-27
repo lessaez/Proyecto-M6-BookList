@@ -1,5 +1,80 @@
-# Vue 3 + Vite
+# 📚 BookList App
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Aplicación web desarrollada con Vue.js que permite gestionar una biblioteca personal de libros de forma interactiva y dinámica.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+---
+
+## 🚀 Características
+
+* 📖 Agregar libros con título, autor, categoría y año
+* 🗑️ Eliminar libros fácilmente
+* ⭐ Marcar libros como favoritos
+* 🔍 Buscar libros en tiempo real
+* 📊 Seguimiento de progreso de lectura
+* 🎨 Interfaz moderna y responsive
+* 🌙 Modo oscuro
+* 🧠 Persistencia de datos con LocalStorage
+
+---
+
+## 🛠️ Tecnologías utilizadas
+
+* ⚡ Vue.js 3
+* 🔀 Vue Router
+* 🎨 CSS3
+* 💾 LocalStorage
+* 🚀 Vite
+* 🌐 GitHub Pages
+
+---
+
+## 📂 Estructura del proyecto
+
+```
+src/
+├── assets/
+├── components/
+├── views/
+├── router/
+├── App.vue
+├── main.js
+```
+
+---
+
+## ▶️ Cómo ejecutar el proyecto
+
+```
+npm install
+npm run dev
+```
+
+---
+
+## 🚀 Deploy
+
+Este proyecto está disponible en:
+
+👉 https://lessaez.github.io/Proyecto-M6-BookList/
+
+---
+
+## 📌 Funcionalidades destacadas
+
+* SPA (Single Page Application)
+* Uso de componentes reutilizables
+* Navegación con Vue Router
+* Manejo de estado local
+* Interfaz amigable para el usuario
+
+---
+
+## 👩‍💻 Autor
+
+Desarrollado por **Leslie Sáez**
+
+---
+
+## 💡 Comentario final
+
+Este proyecto fue desarrollado como parte del módulo de Front-End, aplicando conceptos clave de Vue.js para la construcción de interfaces interactivas modernas.
