@@ -57,7 +57,7 @@
       </div>
     </footer>
 
-    <p class="copy">BookList | © Todos los derechos reservados</p>
+    <p class="copy">BookList | Todos los derechos reservados</p>
 
     <div class="page-counter">
       Paginas vistas: <strong>{{ totalViews }}</strong>
